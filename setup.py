@@ -25,7 +25,7 @@ setup(
   ],
   tests_require=[
     'pytest',
-    'torch==1.12.1',
+    'torch==2.2.0',
     'torchvision==0.13.1'
   ],
   classifiers=[
